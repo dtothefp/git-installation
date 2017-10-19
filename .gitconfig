@@ -1,0 +1,8 @@
+[push]
+        default = current
+[alias]
+        a = add --all
+        #############
+        cm = commit -m
+        #############
+        s = status
